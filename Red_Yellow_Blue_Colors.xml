@@ -1,0 +1,40 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+<symbols/>
+<colorramps>
+<colorramp type="preset" name="Red_Yellow_Blue_1" tags="custom,Red_Yellow_Blue_1">
+  <Option type="Map">
+    <Option type="QString" name="preset_color_0" value="244,3,3,255"/>
+    <Option type="QString" name="preset_color_1" value="253,186,54,255"/>
+    <Option type="QString" name="preset_color_2" value="245,245,4,255"/>
+    <Option type="QString" name="preset_color_3" value="149,247,3,255"/>
+    <Option type="QString" name="preset_color_4" value="0,133,168,255"/>
+    <Option type="QString" name="rampType" value="preset"/>
+  </Option>
+</colorramp>
+<colorramp type="preset" name="Red_Yellow_Blue_2" tags="custom,Red_Yellow_Blue_2">
+  <Option type="Map">
+    <Option type="QString" name="preset_color_0" value="230,0,0,255"/>
+    <Option type="QString" name="preset_color_1" value="255,170,1,255"/>
+    <Option type="QString" name="preset_color_2" value="254,255,117,255"/>
+    <Option type="QString" name="preset_color_3" value="147,247,0,255"/>
+    <Option type="QString" name="preset_color_4" value="0,168,230,255"/>
+    <Option type="QString" name="rampType" value="preset"/>
+  </Option>
+</colorramp>
+<colorramp type="preset" name="Red_Yellow_Blue_3" tags="custom,Red_Yellow_Blue_3">
+  <Option type="Map">
+    <Option type="QString" name="preset_color_0" value="244,0,0,255"/>
+    <Option type="QString" name="preset_color_1" value="252,139,0,255"/>
+    <Option type="QString" name="preset_color_2" value="245,245,0,255"/>
+    <Option type="QString" name="preset_color_3" value="170,255,1,255"/>
+    <Option type="QString" name="preset_color_4" value="0,168,230,255"/>
+    <Option type="QString" name="rampType" value="preset"/>
+  </Option>
+</colorramp>
+</colorramps>
+<textformats/>
+<labelsettings/>
+<legendpatchshapes/>
+<symbols3d/>
+</qgis_style>
